@@ -1,5 +1,5 @@
 {
-  "host": "fceda-liveticker-service-app.feathersjs.com",
+  "host": "fceda-liveticker-service.herokuapp.com/",
   "port": 80,
   "mongodb": "DATABASE_URL",
   "public": "../public/",
