@@ -1,6 +1,6 @@
 {
   "host": "fceda-liveticker-service.herokuapp.com/",
-  "port": 80,
+  "port": "PORT",
   "mongodb": "MONGODB_URI",
   "public": "../public/",
   "auth": {
