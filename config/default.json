@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/fcedaLivetickerService",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "5MBeBcBCYUN2X4BzHxgeW+xIURgfGjg0B06MCLv/abN5gKPD1a5PzK37aFE1YS9s8vCSj6owPPAJVE6auHQ4Lg=="
+    },
+    "local": {}
+  }
+}
