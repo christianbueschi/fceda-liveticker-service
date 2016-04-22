@@ -10,8 +10,8 @@ module.exports = function() {
   const options = {
     Model: notification,
     paginate: {
-      default: 100,
-      max: 100
+      default: 500,
+      max: 500
     }
   };
 
