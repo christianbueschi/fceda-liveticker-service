@@ -19,6 +19,9 @@ const notificationSchema = new Schema({
   image: {
     type: String
   },
+  isTitle: {
+    type: Boolean
+  },
   createdAt: { 
   	type: Date, 
   	'default': Date.now 
