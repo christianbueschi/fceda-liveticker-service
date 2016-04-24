@@ -38,7 +38,7 @@ const notificationSchema = new Schema({
   },
   video: {
     type: String
-  }
+  },
   isTitle: {
     type: Boolean
   },
