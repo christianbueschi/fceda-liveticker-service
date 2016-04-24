@@ -36,6 +36,9 @@ const notificationSchema = new Schema({
   image: {
     type: String
   },
+  video: {
+    type: String
+  }
   isTitle: {
     type: Boolean
   },
